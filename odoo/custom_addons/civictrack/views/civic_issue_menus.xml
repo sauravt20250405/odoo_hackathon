@@ -1,0 +1,7 @@
+<odoo>
+    <menuitem id="menu_civictrack_root" name="CivicTrack"/>
+
+    <menuitem id="menu_civic_issues" name="Issues"
+              parent="menu_civictrack_root"
+              action="action_civic_issue"/>
+</odoo>
